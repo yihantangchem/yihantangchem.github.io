@@ -24,27 +24,27 @@ repository               : "yihantangchem/yihantangchem.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "湯義涵"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Research Professor at Chung-Ang University"
+  location         : "Seoul"
+  employer         : "Chung-Ang University"
+  #uri              : # URL
+  email            : "tangyihan@cau.ac.kr" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Uzthz8sAAAAJ&hl=en"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  #inspire-hep      : # URL
+  #impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1833-2639"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  #semantic         : # URL
+  #ssrn             : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
+  z#otero           : # URL
 
 
   # Repositories and software development
