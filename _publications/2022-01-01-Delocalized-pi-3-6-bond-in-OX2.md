@@ -1,5 +1,5 @@
 ---
-title: "Delocalized $\pi$ 3 6 bond in OX2 (X= halogen) molecules"
+title: "Delocalized $\pi$ <sub>3</sub> 6 bond in OX2 (X= halogen) molecules"
 collection: publications
 date: 2022-01-01
 venue: "Chinese Journal of Chemical Physics"
