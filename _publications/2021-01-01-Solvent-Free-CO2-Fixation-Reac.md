@@ -1,5 +1,5 @@
 ---
-title: "Solvent-Free CO2 Fixation Reaction Catalyzed by MOFs Composites Containing Polycarboxylic Acid Ligands"
+title: "Solvent-Free CO<sub>2</sub> Fixation Reaction Catalyzed by MOFs Composites Containing Polycarboxylic Acid Ligands"
 collection: publications
 date: 2021-01-01
 venue: "ChemistrySelect"
