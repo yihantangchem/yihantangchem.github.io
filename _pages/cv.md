@@ -11,54 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* **Ph.D. in Chemistry**, The Chinese University of Hong Kong, Hong Kong, China (Aug 2021 - July 2025) * Thesis: Experimental and Computational Studies of Transition Metal-Catalyzed Perfluoroalkylation and Defluorofunctionalization Reactions * Supervisor: Prof. Gavin Chit Tsui * **Bachelor of Applied Chemistry**, Changzhou University, Changzhou, China (Sept 2017 - July 2021) * GPA: 4.2/5.0 | Rank: 1/21 (Three years) * Thesis: Transition Metal and its MOFs Material Catalyzed Carbonate Synthesis and the Peroxidation of Alkenes. * Third price for excellent undergraduate thesis of Jiangsu province in 2021 * Supervisors: Prof. Zhihui Zhang and Prof. Haitao Yang Professional Career
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Research Professor**, Chung-Ang University, Seoul, South Korea (Nov 2025 - Present) * Description: Conduct experiential and computational studies of novel organic transformation with collaboration of Professor Eun Jin Cho Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* **Organofluorine Chemistry**: C-F bond activation, Construction of perfluoroalkyl groups * **Computational Chemistry**: Investigation of mechanism through DFT Technical Skills & Language
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Software**: ChemDraw, Chem3D, MestReNova, Gaussian, Multiwfn, MOPAC, xtb, ORCA * **Lab Skills**: Flash Column Chromatography, GC, HPLC, Computational Tasks * **Others**: MATLAB, Origin, EndNote, LaTeX, HPC, Website Building * **Language**: CET4: 546; CET6: 540; IELTS: 7.0; CATTI3 Major Scholarships and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Ministry of Education of the People's Republic of China, "National Scholarship" (2018.9) * Changzhou University, "First Class Scholarship" (Three times, 2018-2021) * WuXi App Tec Organic Chemistry Contest Final Round (2023.8) Teaching Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Laboratory Tutor**: General Chemistry Laboratory, Organic Chemistry Laboratory, Advanced Organic Chemistry Laboratory, Organic Functional Groups (tutorial) * **Teaching Assistant**: Integrated Chemistry Laboratory I, Instrumental Analysis Laboratory Conference and Exchange Experience
 ======
-* Currently signed in to 43 different slack teams
+* **HKSAR**, Junior Asian Core Program of The International Conference on Cutting-Edge Organic Chemistry (poster) (2024.11) * **China**, The 17th National Meeting on Fluorine Chemistry (poster) (2023.7) * **Thailand**, Naresuan University, Thai-Chinese Youth Cultural Exchange Program (2019.11) * **China**, Beijing Kein Research Center for Natural Sciences, Computational Chemistry (2019.10) * **United States**, University of Massachusetts, Green Chemistry (2018.1) * **China**, The 3rd National Chemical Bond and Application Conference (CCS) (2017.8) Publications
+======
+A complete list of my published work is available on my [Publications](/publications/) page.
