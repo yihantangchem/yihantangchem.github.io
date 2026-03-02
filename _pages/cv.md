@@ -11,7 +11,7 @@ redirect_from:
 
 ## Professional Career
 
-* **Research Professor**, Chung-Ang University, Seoul, South Korea (Nov 2025 - Present)
+* **Research Professor**, Chung-Ang University (중앙대학교), Seoul, South Korea (Nov 2025 - Present)
   * Description: Conduct experiential and computational studies of novel organic transformation with collaboration of Professor Eun Jin Cho
 
 ## Education
@@ -20,7 +20,6 @@ redirect_from:
   * Thesis: Experimental and Computational Studies of Transition Metal-Catalyzed Perfluoroalkylation and Defluorofunctionalization Reactions
   * Supervisor: Prof. Gavin Chit Tsui
 * **Bachelor of Applied Chemistry**, Changzhou University, Changzhou, China (Sept 2017 - July 2021)
-  * GPA: 4.2/5.0 | Rank: 1/21 (Three years)
   * Thesis: Transition Metal and its MOFs Material Catalyzed Carbonate Synthesis and the Peroxidation of Alkenes.
   * Third prize for excellent undergraduate thesis of Jiangsu province in 2021
   * Supervisors: Prof. Zhihui Zhang and Prof. Haitao Yang
@@ -28,4 +27,5 @@ redirect_from:
 ## Research Interests
 
 * **Organofluorine Chemistry**: C-F bond activation, Construction of perfluoroalkyl groups
-* **Computational Chemistry**: Investigation of mechanism through DFT
+* **Photocatalysis**: Developing novel photocatalyst
+* **Computational Chemistry**: Homogeneous catalysis, Heterogenous catalysis
