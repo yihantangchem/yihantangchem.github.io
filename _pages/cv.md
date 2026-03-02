@@ -21,7 +21,6 @@ redirect_from:
   * Supervisor: Prof. Gavin Chit Tsui
 * **Bachelor of Applied Chemistry**, Changzhou University, Changzhou, China (Sept 2017 - July 2021)
   * Thesis: Transition Metal and its MOFs Material Catalyzed Carbonate Synthesis and the Peroxidation of Alkenes.
-  * Third prize for excellent undergraduate thesis of Jiangsu province in 2021
   * Supervisors: Prof. Zhihui Zhang and Prof. Haitao Yang
 
 ## Research Interests
