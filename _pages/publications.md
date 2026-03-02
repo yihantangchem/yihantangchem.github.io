@@ -111,7 +111,7 @@ author_profile: true
     <i>Computational and Theoretical Chemistry</i>, <b>2020</b>, 1188, 112974.
   </li>
 
-    <li style="margin-bottom: 20px;">
+  <li style="margin-bottom: 20px;">
     [1] <b><a href="http://www.hxjy.chemsoc.org.cn/CN/abstract/abstract12264.shtml" target="_blank" style="text-decoration: none;">第32届江苏省化学竞赛选拔赛有机试题解析</a></b><br>
     <b>汤义涵</b>,邵莺<br>
     <i>化学教育</i>, <b>2020</b>, 41(15), 99-103.
