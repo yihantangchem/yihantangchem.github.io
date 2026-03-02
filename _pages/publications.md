@@ -76,7 +76,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 20px;">
-    [6] <b><a href="#" target="_blank" style="text-decoration: none;">绝对硬度的量化探究——介绍一个计算化学实验</a></b><br>
+    [6] <b><a href="https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202010036" target="_blank" style="text-decoration: none;">绝对硬度的量化探究——介绍一个计算化学实验</a></b><br>
     杨松, <b>汤义涵</b>, 徐嘉伟, 刘偌曦, 薛冰, 张致慧<br>
     <i>大学化学</i>, <b>2021</b>, 36(8), 2010036.
   </li>
@@ -100,7 +100,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 20px;">
-    [2] <b><a href="#" target="_blank" style="text-decoration: none;">第33届江苏省化学竞赛选拔赛有机试题解析</a></b><br>
+    [2] <b><a href="https://www.dxhx.pku.edu.cn/CN/10.3866/PKU.DXHX202005042" target="_blank" style="text-decoration: none;">第33届江苏省化学竞赛选拔赛有机试题解析</a></b><br>
     <b>汤义涵</b>, 徐嘉伟, 王佳鑫, 王钰如, 薛冰, 张致慧<br>
     <i>大学化学</i>, <b>2020</b>, 36(4), 2005042.
   </li>
@@ -109,5 +109,11 @@ author_profile: true
     [1] <b><a href="https://www.sciencedirect.com/science/article/pii/S2210271X20302747" target="_blank" style="text-decoration: none;">Mechanism study on the oxidation of ethylbenzene: A theoretical and computational approach</a></b><br>
     <b>Yihan Tang</b>, Jiawei Xu, Fei Wang, Yifan Zheng, Zhihui Zhang<br>
     <i>Computational and Theoretical Chemistry</i>, <b>2020</b>, 1188, 112974.
+  </li>
+
+    <li style="margin-bottom: 20px;">
+    [2] <b><a href="http://www.hxjy.chemsoc.org.cn/CN/abstract/abstract12264.shtml" target="_blank" style="text-decoration: none;">第32届江苏省化学竞赛选拔赛有机试题解析</a></b><br>
+    <b>汤义涵</b>,邵莺<br>
+    <i>化学教育</i>, <b>2020</b>, 41(15), 99-103.
   </li>
 </ul>
