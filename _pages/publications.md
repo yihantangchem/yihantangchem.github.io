@@ -1,9 +1,4 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+Last Updated: Mar 3 20266
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 20px;">
