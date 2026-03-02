@@ -1,5 +1,12 @@
 Last Updated: Mar 3 20266
 
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 20px;">
     [16] <b><a href="#" target="_blank" style="text-decoration: none;">Enantio-and Diastereoselective Rh(I)-Catalyzed Defluorinative Arylation of Pentafluoroethyl Alkenes to Access Fluoroalkenes Featuring a Unique F-and CF₃-Substituted sp²-Carbon</a></b><br>
@@ -63,4 +70,37 @@ Last Updated: Mar 3 20266
 
   <li style="margin-bottom: 20px;">
     [6] <b><a href="#" target="_blank" style="text-decoration: none;">绝对硬度的量化探究——介绍一个计算化学实验</a></b><br>
-    杨松, <b>汤义涵</b>, 徐嘉伟, 刘偌曦, 薛冰, 张致慧
+    杨松, <b>汤义涵</b>, 徐嘉伟, 刘偌曦, 薛冰, 张致慧<br>
+    <i>大学化学</i>, <b>2021</b>, 36(8), 2010036.
+  </li>
+
+  <li style="margin-bottom: 20px;">
+    [5] <b><a href="#" target="_blank" style="text-decoration: none;">Solvent-Free CO₂ Fixation Reaction Catalyzed by MOFs Composites Containing Polycarboxylic Acid Ligands</a></b><br>
+    <b>Yihan Tang</b>, Wang Chen, Ruoxi Liu, Leyao Wang, Yating Pan, Ruimin Bi, Xuejun Feng, Mingyang He, Qun Chen, Zhihui Zhang<br>
+    <i>ChemistrySelect</i>, <b>2021</b>, 6(21), 5350-5355.
+  </li>
+
+  <li style="margin-bottom: 20px;">
+    [4] <b><a href="#" target="_blank" style="text-decoration: none;">Copper-catalyzed bisannulations of malonate-tethered o-acyl oximes with pyridine, pyrazine, pyridazine, and quinoline derivatives for the construction of dihydroindolizine-fused pyrrolidinones and analogues</a></b><br>
+    Chun-Bao Miao, Hong-Rong Guan, <b>Yi-Han Tang</b>, Kun Wang, Wen-Long Ren, Xinyu Lyu, Chang-Sheng Yao, Hai-Tao Yang<br>
+    <i>Organic Letters</i>, <b>2021</b>, 23(22), 8699-8704.
+  </li>
+
+  <li style="margin-bottom: 20px;">
+    [3] <b><a href="#" target="_blank" style="text-decoration: none;">Computational study of photochemical relaxation pathways of platinum(II) complexes</a></b><br>
+    Rongji Zhu, Xi Chen, Na Shu, Yunlong Shang, Yichen Wang, Pu Yang, <b>Yihan Tang</b>, Fei Wang, Jiawei Xu<br>
+    <i>The Journal of Physical Chemistry A</i>, <b>2021</b>, 125(47), 10144-10154.
+  </li>
+
+  <li style="margin-bottom: 20px;">
+    [2] <b><a href="#" target="_blank" style="text-decoration: none;">第33届江苏省化学竞赛选拔赛有机试题解析</a></b><br>
+    <b>汤义涵</b>, 徐嘉伟, 王佳鑫, 王钰如, 薛冰, 张致慧<br>
+    <i>大学化学</i>, <b>2020</b>, 36(4), 2005042.
+  </li>
+
+  <li style="margin-bottom: 20px;">
+    [1] <b><a href="#" target="_blank" style="text-decoration: none;">Mechanism study on the oxidation of ethylbenzene: A theoretical and computational approach</a></b><br>
+    <b>Yihan Tang</b>, Jiawei Xu, Fei Wang, Yifan Zheng, Zhihui Zhang<br>
+    <i>Computational and Theoretical Chemistry</i>, <b>2020</b>, 1188, 112974.
+  </li>
+</ul>
