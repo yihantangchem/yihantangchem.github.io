@@ -16,47 +16,53 @@ author_profile: true
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 20px;">
-    [17] <b><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cjoc.70284" target="_blank" style="text-decoration: none;">Enantio-and Diastereoselective Rh(I)-Catalyzed Defluorinative Arylation of Pentafluoroethyl Alkenes to Access Fluoroalkenes Featuring a Unique F-and CF₃-Substituted sp²-Carbon</a></b><br>
+    [18] <b><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cjoc.70284" target="_blank" style="text-decoration: none;">Enantio-and Diastereoselective Rh(I)-Catalyzed Defluorinative Arylation of Pentafluoroethyl Alkenes to Access Fluoroalkenes Featuring a Unique F-and CF₃-Substituted sp²-Carbon</a></b><br>
     Hao Tan, <b>Yihan Tang</b>, Gavin Chit Tsui<br>
     <i>Chinese Journal of Chemistry</i>, <b>2025</b>, 43(24), 3535-3542.
   </li>
 
   <li style="margin-bottom: 20px;">
-    [16] <b><a href="https://pubs.acs.org/doi/full/10.1021/acs.orglett.5c03558" target="_blank" style="text-decoration: none;">Copper-Catalyzed Diastereoselective Defluoroborylation of Pentafluoroethyl Alkenes Using (pin)B–B(dan)</a></b><br>
+    [17] <b><a href="https://pubs.acs.org/doi/full/10.1021/acs.orglett.5c03558" target="_blank" style="text-decoration: none;">Copper-Catalyzed Diastereoselective Defluoroborylation of Pentafluoroethyl Alkenes Using (pin)B–B(dan)</a></b><br>
     <b>Yihan Tang</b>, Gavin Chit Tsui<br>
     <i>Organic Letters</i>, <b>2025</b>, 27(40), 11273-11277.
   </li>
 
   <li style="margin-bottom: 20px;">
-    [15] <b><a href="https://pubs.rsc.org/en/content/articlehtml/2024/qo/d4qo00433g" target="_blank" style="text-decoration: none;">Copper-catalyzed pentafluoroethylation of aryl/alkenyl iodides with pentafluoroethylsilane</a></b><br>
+    [16] <b><a href="https://pubs.rsc.org/en/content/articlehtml/2024/qo/d4qo00433g" target="_blank" style="text-decoration: none;">Copper-catalyzed pentafluoroethylation of aryl/alkenyl iodides with pentafluoroethylsilane</a></b><br>
     <b>Yihan Tang</b>, Gavin Chit Tsui<br>
     <i>Organic Chemistry Frontiers</i>, <b>2024</b>, 11(16), 4366-4370.
   </li>
 
   <li style="margin-bottom: 20px;">
-    [14] <b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uzthz8sAAAAJ&sortby=pubdate&authuser=1&citation_for_view=Uzthz8sAAAAJ:roLk4NBRz8UC" target="_blank" style="text-decoration: none;">Thermal N–O bond heterolysis of TEMPO-CF₂CF₃ towards trifluoroacetylation of alcohols and amines</a></b><br>
+    [15] <b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uzthz8sAAAAJ&sortby=pubdate&authuser=1&citation_for_view=Uzthz8sAAAAJ:roLk4NBRz8UC" target="_blank" style="text-decoration: none;">Thermal N–O bond heterolysis of TEMPO-CF₂CF₃ towards trifluoroacetylation of alcohols and amines</a></b><br>
     Tao Dong, <b>Yihan Tang</b>, Gavin Chit Tsui<br>
     <i>Organic Chemistry Frontiers</i>, <b>2023</b>, 10(20), 5092-5098.
   </li>
 
   <li style="margin-bottom: 20px;">
-    [13] <b><a href="https://pubs.acs.org/doi/full/10.1021/acs.orglett.3c00108" target="_blank" style="text-decoration: none;">Stereoselective Rhodium(I)-Catalyzed C–F Bond Arylation of Tri-and Tetrasubstituted gem-Difluoroalkenes with Boronic Acids</a></b><br>
+    [14] <b><a href="https://pubs.acs.org/doi/full/10.1021/acs.orglett.3c00108" target="_blank" style="text-decoration: none;">Stereoselective Rhodium(I)-Catalyzed C–F Bond Arylation of Tri-and Tetrasubstituted gem-Difluoroalkenes with Boronic Acids</a></b><br>
     Hao Tan, Yuwei Zong, <b>Yihan Tang</b>, Gavin Chit Tsui<br>
     <i>Organic Letters</i>, <b>2023</b>, 25(5), 877-882.
   </li>
 
   <li style="margin-bottom: 20px;">
-    [12] <b><a href="#" target="_blank" style="text-decoration: none;">Copper-Catalyzed Visible-Light-Induced Allylic Difluoromethylation of Unactivated Alkenes Using Difluoroacetic Acid</a></b><br>
+    [13] <b><a href="#" target="_blank" style="text-decoration: none;">Copper-Catalyzed Visible-Light-Induced Allylic Difluoromethylation of Unactivated Alkenes Using Difluoroacetic Acid</a></b><br>
     Jinlian Wang, Ziwei Luo, Yili Wu, <b>Yihan Tang</b>, Xinkan Yang, Gavin Chit Tsui<br>
     <i>Organic Letters</i>, <b>2023</b>, 25(6), 1045-1049.
   </li>
 
   <li style="margin-bottom: 20px;">
-    [11] <b><a href="https://pubs.rsc.org/en/content/articlehtml/2023/qo/d3qo01376f" target="_blank" style="text-decoration: none;">Acylmonofluoromethylation of alkenes via dual NHC/photoredox catalysis</a></b><br>
+    [12] <b><a href="https://pubs.rsc.org/en/content/articlehtml/2023/qo/d3qo01376f" target="_blank" style="text-decoration: none;">Acylmonofluoromethylation of alkenes via dual NHC/photoredox catalysis</a></b><br>
     Shichao Tian, Mingxi Chen, <b>Yihan Tang</b>, Keguang Cheng, Gavin Chit Tsui, Quande Wang<br>
     <i>Organic Chemistry Frontiers</i>, <b>2023</b>, 10(24), 6124-6130.
   </li>
 
+  <li style="margin-bottom: 20px;">
+    [11] <b><a href="https://doi.org/10.1063/1674-0068/cjcp2111247" target="_blank" style="text-decoration: none;">Delocalized π36 bond in OX₂ (X=halogen) molecules</a></b><br>
+    <b>Yihan Tang</b>, Pu Yang, Mingxi Chen, Yichen Wang, Jixing Wang, Jiawei Xu<br>
+    <i>Chinese Journal of Chemical Physics</i>, <b>2022</b>, 35(3), 542-550.
+  </li>
+  
   <li style="margin-bottom: 20px;">
     [10] <b><a href="https://pubs.acs.org/doi/full/10.1021/acs.orglett.2c02294" target="_blank" style="text-decoration: none;">Rhodium(I)-Catalyzed Defluorinative Coupling of Boronic Acids with Monofluoroalkenes</a></b><br>
     Yuwei Zong, <b>Yihan Tang</b>, Gavin Chit Tsui<br>
